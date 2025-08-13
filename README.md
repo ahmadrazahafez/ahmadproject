@@ -1,3 +1,3 @@
 # ahmadproject
 This is my first Git repository
-Aurthor : Ahmad Raza
+Aurthor : Ahmad Raza Hafeez
